@@ -13,15 +13,15 @@
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
+      "value": "Sarkaut"
     },
     "APP_ID": {
       "description": "هنا ضع الاب ايدي الخاص بك يتكون من 8 ارقام", 
-      "value": ""
+      "value": "21917554"
     },
     "API_HASH": {
       "description": "هنا ضع الايبي هاش الخاص بك",
-      "value": ""
+      "value": "13684d4d35d48e1375cd090d2c27cb68"
     },
     "ENV": {
       "description": "لا تغير هذه القيمه",
@@ -29,25 +29,25 @@
     },
     "STRING_SESSION": {
       "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
-      "value": ""
+      "value": "1ApWapzMBuwkEcUlvaaYjcSA8utRl4fZtVQO-BV9Xby_VYJGxTdM1UaIATjbOeyYle0Pltv_oJvpEOXv0P1jtqFzrvgSj2nHVnwlmIZWUtVY4z1BD9fa4hodJ_d8slxEUC1blwbbJnYQGk-2kpibmCo7SKFRh-SGnm3ZKkq7xGBjsKr8U0aj-Rn-z8A9Fh9EdrNrKUzRkkVYQcvH7oydAEe-ImyFqGz6ftn4eO58EXWvZ9FCx_hHcFpPyC-zQE3JlIwWzKno9QiObsvj-kIxIWhpwKEswDVC1DrTrj4J6hlEHdgWU8rrpWeMY2wAMH44AvkGmYThSyGE-9HZJdtVYd05r_AsXGPs="
     },
     "HEROKU_API_KEY": {
       "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
-      "value": "",
+      "value": "7210e1da-10b8-4578-96f3-7a59d6fad514",
       "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "اسم التطبيق اول مربع كتبته خلي هنا نفسه وحروف صغيره",
-      "value": "",
+      "value": "uesrkurd",
       "required": false
     },
     "TG_BOT_USERNAME": {
       "description": "هنا ضع معرف بوتك بدون @",
-      "value": ""
+      "value": "Behehwhebbot"
     },
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك الذي صنعته",
-      "value": ""
+      "value": "5925738679:AAFihCp1I9YnK-GC00xUvno53w1GfETtlng"
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
