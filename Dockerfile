@@ -1,7 +1,7 @@
-FROM UesrKurd/jepthon:slim-buster
+FROM UesrKurd/chuesrkurd:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/UesrKurd/jepthon /root/jepthon
+RUN git clone https://github.com/Sarkaaut/chuesrkurd /root/jepthon
 #working directory 
 WORKDIR /root/jepthon
 
