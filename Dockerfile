@@ -1,4 +1,4 @@
-FROM uesrkurd/jepthon:slim-buster
+FROM UesrKurd/jepthon:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/Sarkaaut/jepthon.git /root/jepthon 
