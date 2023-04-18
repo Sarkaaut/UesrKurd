@@ -1,9 +1,9 @@
-FROM UesrKurd/chuesrkurd:slim-buster
+FROM UesrKurd/Uessrkurd:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/Sarkaaut/chuesrkurd /root/jepthon
+RUN git clone https://github.com/Sarkaaut/Uessrkurd/root/jepthon
 #working directory 
-WORKDIR /root/jepthon
+WORKDIR /root/Uessrkurd
 
 # Install requirements
 RUN pip3 install --no-cache-dir -r requirements.txt
